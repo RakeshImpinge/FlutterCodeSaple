@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160126215828",
+    "project_id": "learn-shudh-gurbani",
+    "storage_bucket": "learn-shudh-gurbani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160126215828:android:0c826db9937f68272df681",
+        "android_client_info": {
+          "package_name": "com.gursevak.gurbani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160126215828-3k5qdh5qial9ee712kqpibcdri1thaho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD24WX7jIjA0H5DkXQ6FSAzEZOSUWq52NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160126215828-3k5qdh5qial9ee712kqpibcdri1thaho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
